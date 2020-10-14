@@ -6,3 +6,6 @@
 
 ## How to run
 * `mvn clean package` & `java -jar target/*.jar`
+
+## Endpoint
+* http://${HOST}:8443/hello
